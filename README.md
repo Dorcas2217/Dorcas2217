@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dorcas</h1>
 <h3 align="center">motivated to learn even more about the world of development, I'm a young computer application software developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorcas2217&label=Profile%20views&color=0e75b6&style=flat" alt="dorcas2217" /> </p>
 
 - 📫 How to reach me **dorcaskueze@gmail.com**
 
